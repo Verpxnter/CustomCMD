@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CustomCMD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff43a31389270081de1df4065439b712f7d31261")]
 [assembly: System.Reflection.AssemblyProductAttribute("CustomCMD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CustomCMD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

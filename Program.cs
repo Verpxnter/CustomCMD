@@ -59,7 +59,6 @@ namespace CustomCMD
 
                             Console.WriteLine($"Antwort von {ipOrAddress}: Status = {pingReply.Status}");
                             Console.WriteLine($"Round Trip Time (RTT) = {pingReply.RoundtripTime}ms");
-                            Console.WriteLine($"Time to live (TTL) = {pingReply.Options.Ttl}");
                             continue;
                         }
                         catch (Exception ex)
