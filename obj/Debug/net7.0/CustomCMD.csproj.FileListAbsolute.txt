@@ -1,0 +1,17 @@
+C:\Users\b45632\Desktop\CustomCMD\bin\Debug\net7.0\CustomCMD.exe
+C:\Users\b45632\Desktop\CustomCMD\bin\Debug\net7.0\CustomCMD.deps.json
+C:\Users\b45632\Desktop\CustomCMD\bin\Debug\net7.0\CustomCMD.runtimeconfig.json
+C:\Users\b45632\Desktop\CustomCMD\bin\Debug\net7.0\CustomCMD.dll
+C:\Users\b45632\Desktop\CustomCMD\bin\Debug\net7.0\CustomCMD.pdb
+C:\Users\b45632\Desktop\CustomCMD\obj\Debug\net7.0\CustomCMD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b45632\Desktop\CustomCMD\obj\Debug\net7.0\CustomCMD.AssemblyInfoInputs.cache
+C:\Users\b45632\Desktop\CustomCMD\obj\Debug\net7.0\CustomCMD.AssemblyInfo.cs
+C:\Users\b45632\Desktop\CustomCMD\obj\Debug\net7.0\CustomCMD.csproj.CoreCompileInputs.cache
+C:\Users\b45632\Desktop\CustomCMD\obj\Debug\net7.0\CustomCMD.dll
+C:\Users\b45632\Desktop\CustomCMD\obj\Debug\net7.0\refint\CustomCMD.dll
+C:\Users\b45632\Desktop\CustomCMD\obj\Debug\net7.0\CustomCMD.pdb
+C:\Users\b45632\Desktop\CustomCMD\obj\Debug\net7.0\CustomCMD.genruntimeconfig.cache
+C:\Users\b45632\Desktop\CustomCMD\obj\Debug\net7.0\ref\CustomCMD.dll
+C:\Users\b45632\Desktop\CustomCMD\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\b45632\Desktop\CustomCMD\obj\Debug\net7.0\CustomCMD.csproj.AssemblyReference.cache
+C:\Users\b45632\Desktop\CustomCMD\obj\Debug\net7.0\CustomCMD.csproj.CopyComplete

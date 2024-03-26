@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DN8GE5NDyZiUkFXKLDHVnH3vLhTJATES5BlOrrhlnvBHKiagek5ZT3B5hA7jJllAsQn8nMG1I3sb06+g6caBTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\b45632\\Desktop\\CustomCMD\\CustomCMD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\b45632\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
